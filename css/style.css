@@ -14,7 +14,8 @@
     line-height: 1.17;  
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;}
+    color: #4D5AE5;
+    text-decoration: none;}
 
 .second-logo {font-family: 'Raleway',sans-serif;
     font-weight: 800;
@@ -22,7 +23,8 @@
     line-height: 1.17;  
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;}
+    color: #2E2F42;
+    text-decoration: none;}
 
 .header-item {font-family: 'Roboto';
     font-weight: 500;
