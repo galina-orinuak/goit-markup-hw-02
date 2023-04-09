@@ -45,7 +45,7 @@
 
 .logo {text-decoration: none;}
 
-.mail {font-family: 'Roboto', sans-serif;
+.address{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -56,15 +56,6 @@
 
 .mail:hover,
 .mail:focus {color: #404BBF;}
-
-.number {font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;   
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;}
 
 .main-h {font-family: 'Roboto',sans-serif;
     font-style: normal;
