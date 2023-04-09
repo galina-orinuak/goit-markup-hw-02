@@ -1,5 +1,5 @@
 .list {list-style: none;}
-.link {}
+.link {text-decoration: none;}
 
 .body_page{font-family: "Roboto", sans-serif;
     color: #434455;
@@ -17,9 +17,18 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;text-decoration: none;}
+    color: #4D5AE5;}
 
-.second-logo {color: #2E2F42;}
+.second-logo {font-family: 'Raleway',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;  
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;}
 
 .header-item {font-family: 'Roboto';
     font-style: normal;
