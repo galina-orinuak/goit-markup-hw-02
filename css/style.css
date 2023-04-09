@@ -1,6 +1,12 @@
 .list {list-style: none;}
 .link {text-decoration: none;}
 
+.body_page{font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#FFFFFF; }
+
+:root{}
+
 .first-logo {font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
