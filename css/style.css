@@ -7,7 +7,8 @@
 
 :root{}
 
-.first-logo {font-family: 'Raleway',sans-serif;
+
+.logo {font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -16,18 +17,9 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;}
+    color: #4D5AE5;text-decoration: none;}
 
-.second-logo {font-family: 'Raleway',sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.5;   
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2E2F42;}
+.second-logo {color: #2E2F42;}
 
 .header-item {font-family: 'Roboto';
     font-style: normal;
@@ -42,8 +34,6 @@
 .header-item:hover,
 .header-item:focus
 {color: #404BBF;}   
-
-.logo {text-decoration: none;}
 
 .address{font-family: 'Roboto', sans-serif;
     font-style: normal;
