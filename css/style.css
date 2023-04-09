@@ -155,3 +155,40 @@
     letter-spacing: 0.02em;
     /* color: #F4F4FD; */ }
 
+.portfolio_btn {display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    width: 116px;
+    height: 48px;
+    color: #4D5AE5;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    cursor: pointer;}
+
+.portfolio_btn:hover,
+.portfolio_btn:focus {background-color: #404BBF; color: #FFFFFF;}
+
+.portfolio_h {font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;}
+
+.portfolio_text {font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;}
