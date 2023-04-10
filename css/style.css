@@ -39,7 +39,7 @@
 .header-item:focus
 {color: #404BBF;}   
 
-.address{font-family: 'Roboto', sans-serif;
+.address_item {font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
     font-style: normal;
@@ -47,7 +47,7 @@
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
-    color: #434455}
+    color: #434455;}
 
 .address_item:hover,
 .address_item:focus {color: #404BBF;}
@@ -94,7 +94,7 @@
 .section_2_text {font-family: 'Roboto';
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.11;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
 
@@ -131,6 +131,8 @@
     font-size: 18px;
     line-height: 1.1;   
     color: #F4F4FD;}
+
+.footer { background-color: #2e2f42}
 
 .footer_text {font-family: 'Roboto';
     font-weight: 400;
