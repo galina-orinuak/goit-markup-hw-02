@@ -36,6 +36,8 @@
 .header-item:focus
 {color: #404BBF;}   
 
+.address{font-style: normal}
+
 .address_item {font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -49,7 +51,7 @@
 .address_item:hover,
 .address_item:focus {color: #404BBF;}
 
-.section-1{background-color: #2e2f42;}
+.section-one{background-color: #2e2f42;}
 
 .main-h {font-family: 'Roboto',sans-serif;
     font-weight: 700;
