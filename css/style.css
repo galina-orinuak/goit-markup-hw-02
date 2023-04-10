@@ -83,21 +83,19 @@
 .modal-btn:hover,
 .modal-btn:focus{background-color: #404BBF;}
 
-.section_2_item {font-family: 'Roboto';
+.section_two_item {font-family: 'Roboto';
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;}
 
-.section_2_text {font-family: 'Roboto';
+.section_two_text {font-family: 'Roboto';
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
-
-.section_3 {background-color: #F4F4FD}
 
 .section_3_h {font-family: 'Roboto';
     font-weight: 700;
@@ -107,6 +105,10 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;}
+
+.section_four {background-color: #F4F4FD}
+
+.section_four_list {background-color: #FFFFFF}
 
 .name {font-family: 'Roboto';
     font-weight: 500;
@@ -125,7 +127,7 @@
     letter-spacing: 0.02em;
     color: #434455;}
 
-.second-logo-2 {font-family: 'Raleway';
+.second-logo-footer {font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 1.1;   
