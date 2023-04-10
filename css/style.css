@@ -97,7 +97,7 @@
     letter-spacing: 0.02em;
     color: #434455;}
 
-.section_3_h {font-family: 'Roboto';
+.section_three_h {font-family: 'Roboto';
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;  
@@ -107,6 +107,15 @@
     color: #2E2F42;}
 
 .section_four {background-color: #F4F4FD}
+
+.section_four_h {font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;  
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;}
 
 .section_four_list {background-color: #FFFFFF}
 
