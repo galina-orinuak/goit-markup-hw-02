@@ -42,7 +42,7 @@
 .address{font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    font-style: normal
+    font-style: normal;
     line-height: 1.5;   
     letter-spacing: 0.02em;
     color: #434455;
@@ -130,10 +130,6 @@
     font-weight: 800;
     font-size: 18px;
     line-height: 1.1;   
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #F4F4FD;}
 
 .footer_text {font-family: 'Roboto';
